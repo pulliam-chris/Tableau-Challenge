@@ -17,7 +17,7 @@ The targeted trend for the examination of the CitiBike Data was derived from the
 * The observed drop in "Customer" rides can probably be related to the decrease in tourism as the weather turns colder.
 * Comparing 2018 to 2019, ridership has clearly increased during that time interval however it seems to be a proportional increase across both declared gender types (male and female).
 * When comparing account types across the gender spectrum as seen in the block diagram subscriber ridership is still a greater proportion than individual use customers.
-* When examining age, ridership in Jersey City seems to be most popular amongst individual in their early 30's. And this appears to correspond with the Median Age census data overlayed on the station maps. (Age calculations removed riders with a birthdate 1969 -common ficitious birthdate- and anyone with listed age above 100 years old was removed for the same practical reason).
+* When examining age, ridership in Jersey City seems to be most popular amongst individual in their early 30's. And this appears to correspond with the Median Age census data overlayed on the station maps. (Age calculations removed riders with a birthdate 1969 -common fictitious birthdate- and anyone with listed age above 100 years old was removed for the same practical reason).
 
 
 
