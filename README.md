@@ -10,7 +10,7 @@ The targeted trend for the examination of the CitiBike Data was derived from the
 ## Published Tableau Public
 [Published Tableau Public Story](https://public.tableau.com/profile/chris.p2177#!/vizhome/CitiBike_16205974921770/Story1?publish=yes)
 
-## Observations
+## Observations:
 
 * The blog post and promotion did not noticably increase female ridership during the month of October 2018 and the promotion did not appear to be repeated in 2019.
 * The decline in overall ridership starting in the Fall and heading into Winter Months appears to be more of a driving factor in the decline of both declared gender types.
