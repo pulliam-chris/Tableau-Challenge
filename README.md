@@ -7,7 +7,7 @@ Citi Bike Data Jupyter Notebook Processing and Tableau Public
 
 The targeted trend for the examination of the CitiBike Data was derived from the Women Bike Month Blog post from October 2018 as a gauge for active participant outreach.  The resulting data set was files collected from the CitiBike data file repository including September 2018, October 2018, November 2018, Septemper 2019, October 2019, and November 2019.  The files were selected from the lesser examined **_Jersey City_** stations and multiple years were selected to be able to identify seasonality and to span a reasonable time frame.  A final CSV file was produced using the Jupyter Notebook file included in the repository. 
 
-## Published Tableau Public
+## Published in Tableau Public
 [Published Tableau Public Story](https://public.tableau.com/profile/chris.p2177#!/vizhome/CitiBike_16205974921770/Story1?publish=yes)
 
 ## Observations:
